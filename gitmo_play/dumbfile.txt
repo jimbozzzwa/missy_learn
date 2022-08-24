@@ -3,3 +3,5 @@ alpha
 beta
 gamma
 delta
+
+/home/jimbo/proj/nym_nosleep/misc_learn/missy_learn/gitmo_play
