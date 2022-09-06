@@ -5,3 +5,8 @@ gamma
 delta
 
 I am goog-jimbo and I was here
+
+And another paragraph.
+but not a good thing here?
+
+/home/jimbo/proj/nym_nosleep/misc_learn/gitmo_play
